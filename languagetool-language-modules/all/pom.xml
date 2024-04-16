@@ -146,6 +146,10 @@
         </dependency>
         <dependency>
             <groupId>org.languagetool</groupId>
+            <artifactId>language-lv</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
             <artifactId>language-sv</artifactId>
         </dependency>
         <dependency>
