@@ -43,6 +43,11 @@
             <scope>test</scope>
         </dependency>
         <dependency>
+            <groupId>lv.ailab.morphology</groupId>
+            <artifactId>morphology</artifactId>
+            <version>2.5.4-SNAPSHOT</version>
+        </dependency>
+        <dependency>
             <!-- see http://stackoverflow.com/questions/174560/sharing-test-code-in-maven#174670 -->
             <groupId>org.languagetool</groupId>
             <artifactId>languagetool-core</artifactId>
